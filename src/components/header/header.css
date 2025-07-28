@@ -1,0 +1,23 @@
+.header-chat {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+  padding: clamp(5px, 1vw, 10px);
+  margin-top: 50px;
+  border-radius: 5px;
+  border: 2px solid blueviolet;
+}
+
+.current-user {
+  font-size: clamp(16px, 3vw, 22px);
+  font-weight: 400;
+  margin-right: 20px;
+}
+
+.header-control {
+  display: flex;
+  gap: clamp(4px, 1vw, 16px);
+  margin-left: 20px;
+}

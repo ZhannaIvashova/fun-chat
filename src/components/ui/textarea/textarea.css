@@ -1,0 +1,9 @@
+.textarea {
+  padding: 3px 5px;
+  width: 100%;
+}
+
+.disabled {
+  pointer-events: none;
+  cursor: not-allowed;
+}
