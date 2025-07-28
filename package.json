@@ -1,5 +1,5 @@
 {
-  "name": "async-race-api",
+  "name": "fun-chat",
   "version": "1.0.0",
   "description": "Fun with promises",
   "main": "index.js",
